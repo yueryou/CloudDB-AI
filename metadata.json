@@ -1,0 +1,5 @@
+{
+  "name": "CloudDB AI Studio",
+  "description": "A modern, lightweight cloud database management interface powered by Gemini. Connect to any database, visualize schemas, and use AI to write SQL and generate mock data for testing.",
+  "requestFramePermissions": []
+}
